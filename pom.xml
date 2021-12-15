@@ -19,7 +19,7 @@
 
 	<properties>
 		<commons.collections>3.2.1</commons.collections>
-		<commons.lang>3.1</commons.lang>
+		<commons.lang>3.12.0</commons.lang>
 		<httpcomponents>4.3.1</httpcomponents>
 		<solr>8.0.0</solr>
 		<springdata.commons>2.2.0.BUILD-SNAPSHOT</springdata.commons>
